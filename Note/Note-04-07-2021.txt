@@ -1,0 +1,10 @@
+Dự án backend chia làm 4 luồng chính sẽ được triển khai song song
+- học spring boot và các đặc điểm nổi bật của java 8 (2 Tháng)
+- thiết kế hệ thống và database, xây dựng business logic chặt chẽ (3 Tháng)
+- xử lý các vấn đề lớn của hệ thống, tạo lập các module riêng lẻ chuyên biệt để giải quyết vấn đề (4 Tháng)
+- xây dựng các phần cốt lõi của hệ thống (3 Tháng)
+
+Sau khi hoàn thiện 4 luống sẽ tiến hành ghép nối để tạo nên toàn bộ hệ thống
+
+Các vấn để cần bàn tiếp:
+- testing, kiểm thử
